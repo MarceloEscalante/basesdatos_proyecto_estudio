@@ -47,3 +47,7 @@ Para alcanzar el objetivo general, se plantean los siguientes resultados particu
 - Reducir significativamente el tiempo administrativo dedicado por el personal de las instituciones a la carga del relevamiento anual.
 - Mejorar la consistencia e integridad de la información recopilada, minimizando los errores de carga manual derivados de la reinserción de datos ya existentes.
 - Establecer un registro histórico único por institución que facilite la consulta y el análisis de la evolución de los datos a lo largo del tiempo (excluyendo matrícula).
+
+## CAPÍTULO IV: DESARROLLO DEL TEMA/PRESENTACIÓN DE RESULTADOS
+
+![edrplus.png](https://github.com/GeronimoSerial/basesdatos_proyecto_estudio/blob/main/doc/edrplus.png)
