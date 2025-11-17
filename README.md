@@ -50,4 +50,4 @@ Para alcanzar el objetivo general, se plantean los siguientes resultados particu
 
 ## CAPÍTULO IV: DESARROLLO DEL TEMA/PRESENTACIÓN DE RESULTADOS
 
-![edrplus.png](https://github.com/MarceloEscalante/basesdatos_proyecto_estudio/tree/main/doc/edrplus.png)
+![erdplus.png](https://github.com/MarceloEscalante/basesdatos_proyecto_estudio/tree/main/doc/erdplus.png)
